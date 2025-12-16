@@ -1,0 +1,663 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.7">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="3147" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" value="经销商、厂用户" vertex="1">
+          <mxGeometry height="1920" width="100" x="145" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" parent="aM9ryv3xv72pqoxQDRHE-1" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="130" width="10" x="45" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-150" parent="aM9ryv3xv72pqoxQDRHE-1" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="230" width="10" x="45" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-34" parent="aM9ryv3xv72pqoxQDRHE-1" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="440" width="10" x="45" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" value="数字门户管理员" vertex="1">
+          <mxGeometry height="1920" width="100" x="325" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-6" parent="aM9ryv3xv72pqoxQDRHE-5" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="170" width="10" x="45" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startArrow=classic;startFill=1;endFill=0;" value="2：登录数字门户">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="240" />
+            </Array>
+            <mxPoint x="554.5" y="240" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-10" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=0;startArrow=classic;startFill=1;" value="登录成功">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="283" y="270" />
+            </Array>
+            <mxPoint x="203" y="270" as="sourcePoint" />
+            <mxPoint x="559.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" value="数字门户前端" vertex="1">
+          <mxGeometry height="1920" width="100" x="510" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-2" parent="doAXzb8PT-yAH2Pbq1VS-1" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="60" width="10" x="45" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-38" parent="doAXzb8PT-yAH2Pbq1VS-1" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="170" width="10" x="45" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-36" edge="1" parent="doAXzb8PT-yAH2Pbq1VS-1" source="doAXzb8PT-yAH2Pbq1VS-34" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-305" y="430" as="sourcePoint" />
+            <mxPoint x="45" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-37" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="3.访问线索中台应用" vertex="1">
+          <mxGeometry relative="1" x="-0.4592" y="2" as="geometry">
+            <mxPoint x="33" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--8" parent="doAXzb8PT-yAH2Pbq1VS-1" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="60" width="10" x="45" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="线索中台运营前端" vertex="1">
+          <mxGeometry height="1944" width="100" x="1510" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-4" parent="doAXzb8PT-yAH2Pbq1VS-3" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="420" width="10" x="45" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-123" parent="doAXzb8PT-yAH2Pbq1VS-3" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="250" width="10" x="45" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-148" parent="doAXzb8PT-yAH2Pbq1VS-3" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="60" width="10" x="41" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="线索中台运营后端" vertex="1">
+          <mxGeometry height="1941" width="100" x="1100" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-6" parent="doAXzb8PT-yAH2Pbq1VS-5" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="330" width="10" x="45" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-26" parent="doAXzb8PT-yAH2Pbq1VS-5" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="181" width="10" x="40" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-29" edge="1" parent="doAXzb8PT-yAH2Pbq1VS-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="69" y="259.73" />
+              <mxPoint x="69" y="299.73" />
+            </Array>
+            <mxPoint x="49.00090909090946" y="259.27727272727253" as="sourcePoint" />
+            <mxPoint x="49" y="299.7299999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-53" parent="doAXzb8PT-yAH2Pbq1VS-5" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="350" width="10" x="45" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-70" parent="doAXzb8PT-yAH2Pbq1VS-5" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="95" width="10" x="50" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-71" edge="1" parent="doAXzb8PT-yAH2Pbq1VS-5" source="doAXzb8PT-yAH2Pbq1VS-70" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="680" />
+            </Array>
+            <mxPoint x="70" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-77" parent="doAXzb8PT-yAH2Pbq1VS-5" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="320" width="10" x="45" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-94" parent="doAXzb8PT-yAH2Pbq1VS-5" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="100" width="10" x="51" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-124" parent="doAXzb8PT-yAH2Pbq1VS-5" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="210" width="10" x="45" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-144" parent="doAXzb8PT-yAH2Pbq1VS-5" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="100" width="10" x="45" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-149" edge="1" parent="doAXzb8PT-yAH2Pbq1VS-5" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="1834" />
+            </Array>
+            <mxPoint x="450" y="1834" as="sourcePoint" />
+            <mxPoint x="380" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--11" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-149" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="6.3 登录(code) 转3.2流程" vertex="1">
+          <mxGeometry relative="1" x="-0.9184" y="1" as="geometry">
+            <mxPoint x="-31" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-7" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="doAXzb8PT-yAH2Pbq1VS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="170.27181818181802" as="sourcePoint" />
+            <mxPoint x="549.5" y="170.27181818181802" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-8" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;1.、创建、更新、禁用用户&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.8579" y="3" as="geometry">
+            <mxPoint x="68" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" value="数字门户后端" vertex="1">
+          <mxGeometry height="2060" width="100" x="690" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-10" parent="doAXzb8PT-yAH2Pbq1VS-9" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="300" width="10" x="45" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-15" parent="doAXzb8PT-yAH2Pbq1VS-9" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="51" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-23" parent="doAXzb8PT-yAH2Pbq1VS-9" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="51" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-56" parent="doAXzb8PT-yAH2Pbq1VS-9" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="181" width="10" x="45" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-115" parent="doAXzb8PT-yAH2Pbq1VS-9" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="181" width="10" x="45" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-125" parent="doAXzb8PT-yAH2Pbq1VS-9" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="240" width="10" x="45" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-11" edge="1" parent="1" source="doAXzb8PT-yAH2Pbq1VS-2" style="edgeStyle=elbowEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="181" as="sourcePoint" />
+            <mxPoint x="735" y="181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-12" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;1.1、创建、更新(岗位)、禁用用户&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.8579" y="3" as="geometry">
+            <mxPoint x="78" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-13" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753" y="214" as="sourcePoint" />
+            <mxPoint x="1147" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-14" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;1.2、通知数据变更&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.8579" y="3" as="geometry">
+            <mxPoint x="148" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-17" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;fontFamily=Helvetica;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="200.001818181818" as="sourcePoint" />
+            <mxPoint x="570" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-18" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回操作成功" vertex="1">
+          <mxGeometry relative="1" x="0.219" y="-1" as="geometry">
+            <mxPoint x="6" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-19" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="297" as="sourcePoint" />
+            <mxPoint x="755" y="297.36636363636353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-20" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="1.2.1 拉取最新用户数据" vertex="1">
+          <mxGeometry relative="1" x="0.488" y="-2" as="geometry">
+            <mxPoint x="84" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-21" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="240" as="sourcePoint" />
+            <mxPoint x="755" y="239.5472727272725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-22" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="接收成功" vertex="1">
+          <mxGeometry relative="1" x="0.0637" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-24" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="329.7272727272725" as="sourcePoint" />
+            <mxPoint x="1140" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-25" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回最新更新数据" vertex="1">
+          <mxGeometry relative="1" x="-0.3253" y="-1" as="geometry">
+            <mxPoint x="72" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;div&gt;1.2.2&lt;/div&gt;新建：新建用户信息(用户类型、租户转换、默认密码)，存入用户岗位角色关联表&lt;div&gt;更新：更新用户信息，判断岗位是否发生变化处理&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;用户岗位角色关联表&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;禁用：禁用用户&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="320" x="1200" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-33" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=2;rounded=0;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;dashed=1;" target="doAXzb8PT-yAH2Pbq1VS-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="360" as="sourcePoint" />
+            <mxPoint x="960" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-51" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565" y="535.9972727272725" as="sourcePoint" />
+            <mxPoint x="1559.5" y="535.9972727272725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-52" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="3.1 携带配置在数字门户口的跳转url+code" vertex="1">
+          <mxGeometry relative="1" x="-0.2917" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-54" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1555" y="580.0018181818181" as="sourcePoint" />
+            <mxPoint x="1160" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-55" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="3.2&amp;nbsp; 登录验证(code)&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.0844" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-58" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145" y="599.9963636363635" as="sourcePoint" />
+            <mxPoint x="750" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-59" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="3.3根据client_id、client_screct、code" vertex="1">
+          <mxGeometry relative="1" x="0.1685" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-60" edge="1" parent="1" source="doAXzb8PT-yAH2Pbq1VS-56" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="640" />
+            </Array>
+            <mxPoint x="750" y="640" as="sourcePoint" />
+            <mxPoint x="1140" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-62" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回accessToken" vertex="1">
+          <mxGeometry relative="1" x="-0.2296" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-65" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145" y="669.9963636363635" as="sourcePoint" />
+            <mxPoint x="750" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-66" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="3.4 根据 accessToken 获取用户信息" vertex="1">
+          <mxGeometry relative="1" x="0.1282" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-67" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="709.9963636363635" as="sourcePoint" />
+            <mxPoint x="1140" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-68" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回用户信息（oneid）" vertex="1">
+          <mxGeometry relative="1" x="-0.337" y="2" as="geometry">
+            <mxPoint x="51" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="3.5 根据oneid查询本地用户库，识别租户信息和用户账号信息业务中台登录授权token" vertex="1">
+          <mxGeometry height="40" width="220" x="1190" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-73" edge="1" parent="1" source="doAXzb8PT-yAH2Pbq1VS-53" style="shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=horizontal;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1.4;exitY=0.934;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="839.1764705882354" as="sourcePoint" />
+            <mxPoint x="1551" y="846.9000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-74" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回租户ID 和 授权token" vertex="1">
+          <mxGeometry relative="1" x="-0.1425" y="-4" as="geometry">
+            <mxPoint x="-1" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-75" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" value="APP用户" vertex="1">
+          <mxGeometry height="1920" width="100" x="-280" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-76" parent="doAXzb8PT-yAH2Pbq1VS-75" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="460" width="15" x="42.5" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-79" edge="1" parent="1" source="doAXzb8PT-yAH2Pbq1VS-80" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="1091" as="sourcePoint" />
+            <mxPoint x="1149.5" y="1091.090909090909" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-84" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="4.1 手机号+验证码发起登录" vertex="1">
+          <mxGeometry relative="1" x="-0.1539" y="8" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-80" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="销售助手APP" vertex="1">
+          <mxGeometry height="1920" width="120" x="-80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-81" parent="doAXzb8PT-yAH2Pbq1VS-80" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="360" width="10" x="56" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-91" parent="doAXzb8PT-yAH2Pbq1VS-80" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="60" width="10" x="60" y="1147" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-92" edge="1" parent="doAXzb8PT-yAH2Pbq1VS-80" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="93.32000000000005" y="1254" />
+              <mxPoint x="93.32000000000005" y="1304" />
+            </Array>
+            <mxPoint x="67.00181818181852" y="1254" as="sourcePoint" />
+            <mxPoint x="67.00181818181852" y="1304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-93" parent="doAXzb8PT-yAH2Pbq1VS-80" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="4.3 注入租户信息到浏览器中" vertex="1">
+          <mxGeometry height="30" width="170" x="82" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-82" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-222.5" y="1071.75" as="sourcePoint" />
+            <mxPoint x="-20.5" y="1071.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-83" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-82" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="4 登录" vertex="1">
+          <mxGeometry relative="1" x="-0.0638" y="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-86" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="1110" />
+              <mxPoint x="1180" y="1160" />
+            </Array>
+            <mxPoint x="1153.6818181818185" y="1110" as="sourcePoint" />
+            <mxPoint x="1153.6818181818185" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="4.2 根据手机号生成登录授权信息&lt;div&gt;如果只有一个账号&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="1190" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-89" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1153.16" y="1300.1854545454546" as="sourcePoint" />
+            <mxPoint x="-10" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-90" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回授权TOKEN 信息" vertex="1">
+          <mxGeometry relative="1" x="0.2475" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-95" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1187.91" y="1187" />
+              <mxPoint x="1187.91" y="1237" />
+            </Array>
+            <mxPoint x="1161.5918181818186" y="1187" as="sourcePoint" />
+            <mxPoint x="1161.5918181818186" y="1237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="4.2.1&amp;nbsp; 根据手机号生成登录授权信息&lt;div&gt;如果有多个账号，则返回租户id给用户选取&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="1190" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-98" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145" y="1247.5454545454545" as="sourcePoint" />
+            <mxPoint x="-10" y="1248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-99" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-98" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回当前账号拥有的租户信息" vertex="1">
+          <mxGeometry relative="1" x="0.1535" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-100" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="1265" as="sourcePoint" />
+            <mxPoint x="1151.5" y="1265.181818181818" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-101" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-100" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="选择租户登录" vertex="1">
+          <mxGeometry relative="1" x="-0.2384" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-103" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1590.32" y="854" />
+              <mxPoint x="1590.32" y="904" />
+            </Array>
+            <mxPoint x="1564.0018181818184" y="854" as="sourcePoint" />
+            <mxPoint x="1564.0018181818184" y="904" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-104" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="3.6 注入租户id到浏览器" vertex="1">
+          <mxGeometry relative="1" x="-0.0015" y="-1" as="geometry">
+            <mxPoint x="65" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-105" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" value="平台用户" vertex="1">
+          <mxGeometry height="1890" width="100" x="1828" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-106" parent="doAXzb8PT-yAH2Pbq1VS-105" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="130" width="10" x="45" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-107" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="平台端前端" vertex="1">
+          <mxGeometry height="1890" width="100" x="2025" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-108" parent="doAXzb8PT-yAH2Pbq1VS-107" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="130" width="10" x="45" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-113" edge="1" parent="doAXzb8PT-yAH2Pbq1VS-107" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="1344.2323076923076" as="sourcePoint" />
+            <mxPoint x="249.5000000000009" y="1344.2323076923076" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-114" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-113" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="5.1 初始化租户用户信息" vertex="1">
+          <mxGeometry relative="1" x="-0.3859" as="geometry">
+            <mxPoint x="35" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-109" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="平台端后端" vertex="1">
+          <mxGeometry height="1890" width="100" x="2240" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-110" parent="doAXzb8PT-yAH2Pbq1VS-109" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="420" width="10" x="45" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-116" edge="1" parent="1" source="doAXzb8PT-yAH2Pbq1VS-144" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2285" y="1536" as="sourcePoint" />
+            <mxPoint x="745" y="1536" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-117" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-116" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="5.3 同步同步全量数据" vertex="1">
+          <mxGeometry relative="1" x="0.0152" y="2" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-118" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="1599" as="sourcePoint" />
+            <mxPoint x="2289.5" y="1599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-119" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-118" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回用户信息" vertex="1">
+          <mxGeometry relative="1" x="-0.0508" y="2" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-120" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2346" y="1650" />
+              <mxPoint x="2346" y="1700" />
+            </Array>
+            <mxPoint x="2296.0018181818186" y="1650" as="sourcePoint" />
+            <mxPoint x="2296.0018181818186" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;div style=&quot;text-align: left;&quot;&gt;5.4&lt;/div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;新建：新建用户信息(用户类型、租户转换、默认密码)，存入用户岗位角色关联表&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="440" x="2350" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-126" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1555" y="1770" as="sourcePoint" />
+            <mxPoint x="1157.0866666666666" y="1770.0033333333336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="6.1&amp;nbsp; TOKEN失效登录" vertex="1">
+          <mxGeometry height="30" width="136" x="1284" y="1746" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-134" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1155" y="1795.0033333333336" as="sourcePoint" />
+            <mxPoint x="1559.5" y="1795.0033333333336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-135" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-134" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回获取code的数字门户拼接地址+redirect_url" vertex="1">
+          <mxGeometry relative="1" x="-0.2411" as="geometry">
+            <mxPoint x="22" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-136" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1555" y="1819.7894736842109" as="sourcePoint" />
+            <mxPoint x="745" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-137" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-136" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="6.2 获取业务中台地址带code参数" vertex="1">
+          <mxGeometry relative="1" x="0.1415" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-138" edge="1" parent="1" source="doAXzb8PT-yAH2Pbq1VS-125" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-139" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-138" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回redirect_url+code" vertex="1">
+          <mxGeometry relative="1" x="0.0561" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-145" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2285" y="1513" as="sourcePoint" />
+            <mxPoint x="1155" y="1513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--1" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-145" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;5.2 初始化用户信息&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0407" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-151" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=horizontal;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" value="6、重新登录">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1737.75" as="sourcePoint" />
+            <mxPoint x="1559.5" y="1737.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-152" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="doAXzb8PT-yAH2Pbq1VS-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140.0000000000005" y="410.0038461538462" as="sourcePoint" />
+            <mxPoint x="750" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-153" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-152" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="1.2.3 通知处理完毕" vertex="1">
+          <mxGeometry relative="1" x="0.15" y="2" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-111" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1878" y="1410.0023076923076" as="sourcePoint" />
+            <mxPoint x="2070" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doAXzb8PT-yAH2Pbq1VS-112" connectable="0" parent="doAXzb8PT-yAH2Pbq1VS-111" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;5、维护租户信息(待确认)&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1859" y="-2" as="geometry">
+            <mxPoint x="3" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--2" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontFamily=Helvetica;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2285" y="1460" as="sourcePoint" />
+            <mxPoint x="2080" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--3" connectable="0" parent="KxOpooN7duFh3u5raWw--2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回" vertex="1">
+          <mxGeometry relative="1" x="0.2098" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--4" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="1410" as="sourcePoint" />
+            <mxPoint x="-225.5" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--5" connectable="0" parent="KxOpooN7duFh3u5raWw--4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回结果" vertex="1">
+          <mxGeometry relative="1" x="0.1192" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--6" edge="1" parent="1" source="doAXzb8PT-yAH2Pbq1VS-3" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145" y="930" as="sourcePoint" />
+            <mxPoint x="200" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--7" connectable="0" parent="KxOpooN7duFh3u5raWw--6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="显示租户数据信息" vertex="1">
+          <mxGeometry relative="1" x="0.0243" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--9" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557" y="209" as="sourcePoint" />
+            <mxPoint x="376.5" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--10" connectable="0" parent="KxOpooN7duFh3u5raWw--9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="操作成功" vertex="1">
+          <mxGeometry relative="1" x="0.097" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--12" edge="1" parent="1" source="doAXzb8PT-yAH2Pbq1VS-148" style="edgeStyle=elbowEdgeStyle;shape=connector;curved=0;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--13" connectable="0" parent="KxOpooN7duFh3u5raWw--12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回登录信息" vertex="1">
+          <mxGeometry relative="1" x="0.1014" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--14" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontFamily=Helvetica;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2072" y="1478" as="sourcePoint" />
+            <mxPoint x="1882" y="1478" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxOpooN7duFh3u5raWw--15" connectable="0" parent="KxOpooN7duFh3u5raWw--14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="返回" vertex="1">
+          <mxGeometry relative="1" x="0.2098" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
